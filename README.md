@@ -1,4 +1,4 @@
-![logo](https://github.com/sakshig03/sakshig03/blob/main/git2.jpeg)
+![logo](https://github.com/sakshig03/sakshig03/blob/main/49fc0304-193c-4ebb-9cbb-1105bc15a4df.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi Gaikwad</h1>
 <h3 align="center">🎓 International Institute of Information Technology I2IT, Pune | BE Computer Engineering</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
